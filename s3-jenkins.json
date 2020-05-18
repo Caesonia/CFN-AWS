@@ -6,7 +6,7 @@
         }
     },
     "Outputs": {
-        "BucketName": {
+        "BucketName": "flava-big-bucket" {
             "Value": {
                 "Ref": "S3Bucket"
             },
